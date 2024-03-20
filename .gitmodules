@@ -1,0 +1,3 @@
+[submodule "powerdlz23/powerdlz23/polymer/polymer-template"]
+	path = powerdlz23/powerdlz23/polymer/polymer-template
+	url = https://github.com/dlzcods/polymer-template.git
